@@ -10,4 +10,5 @@ RUN apk add --no-cache git make build-base && \
 
 FROM alpine:latest
 COPY --from=build /vlmcsd/bin/vlmcsd /usr/local/bin/vlmcsd
+HEALTHCHECK CMD ["pidof", "vlmcsd"]
 ENTRYPOINT ["vlmcsd"]
