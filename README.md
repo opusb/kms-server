@@ -1,4 +1,8 @@
 # kms-server
+[![Docker](https://github.com/HMBSbige/kms-server/actions/workflows/Docker.yml/badge.svg)](https://github.com/HMBSbige/kms-server/actions/workflows/Docker.yml)
+[![Docker](https://img.shields.io/badge/Docker-kms--server-blue?label=Docker&logo=docker)](https://github.com/users/HMBSbige/packages/container/package/kms-server)
+[![Github last commit date](https://img.shields.io/github/last-commit/HMBSbige/kms-server.svg?label=Updated&logo=github)](https://github.com/HMBSbige/kms-server/commits)
+
 ## 直接可用的地址：
 
 ```
